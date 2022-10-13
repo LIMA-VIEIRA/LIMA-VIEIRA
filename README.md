@@ -1,5 +1,5 @@
 Ola, tudo bem com vocês!? 👋
-Sou Paulo Vieira Lima
+ Paulo Vieira Lima
 
 Sou estudade de "Ciências da Computação" na Universidade Cruzeiro do sul.
  Estou no 4º semestre.
