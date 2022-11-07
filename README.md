@@ -1,8 +1,7 @@
 Ola, tudo bem com vocês!? 👋
  Paulo Vieira Lima
 
-Sou estudade de "Ciências da Computação" na Universidade Cruzeiro do sul.
- Estou no 4º semestre.
+Sou estudante  da "Ciências da Comput
  
  Atualmente estou focado em aprender Frontend;
  
