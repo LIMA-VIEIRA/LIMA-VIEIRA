@@ -1,7 +1,7 @@
 Ola, tudo bem com vocês!? 👋
  Paulo Vieira Lima
 
-Sou estudante  da "Ciências da Comput
+Sou estudante  da "Ciências da Computação
  
  Atualmente estou focado em aprender Frontend;
  
